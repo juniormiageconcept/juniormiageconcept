@@ -52,4 +52,6 @@ Pour toute demande de collaboration ou d'information, n'hésitez pas à nous con
 📱[Nos réseaux sociaux](https://linktr.ee/juniormiageconcept)
 
 
-**Junior MIAGE Concept Nice** — L'innovation d'aujourd'hui, les leaders de demain. Vos projets numériques entre les mains de la future génération.
+
+
+💙**Junior MIAGE Concept Nice** — L'innovation d'aujourd'hui, les leaders de demain. Vos projets numériques entre les mains de la future génération.
