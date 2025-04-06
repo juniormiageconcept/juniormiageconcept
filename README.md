@@ -1,6 +1,6 @@
 # Junior MIAGE Concept Nice
 
-Bienvenue sur le dépôt officiel de **Junior MIAGE Concept Nice**, représentant la formation MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises) de l'Université Côte d’Azur.
+Bienvenue sur le GitHub officiel de **Junior MIAGE Concept Nice**, représentant la formation MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises) de l'Université Côte d’Azur.
 
 
 ## :pushpin: Notre structure
